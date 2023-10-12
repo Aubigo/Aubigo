@@ -9,17 +9,17 @@
 
 - 🌱 I’m currently learning **Django, Python**
 
-- 👯 I’m looking to collaborate on [universal sale c](www.universalc.store)
+- 👯 I’m looking to collaborate on <a href="https://www.universalc.store">Universal Sale C</a>
 
-- 🤝 I’m looking for help with [aubigo online](www.aubigo.online)
+- 🤝 I’m looking for help with <a href="https://www.aubigo.online">Aubigo agency</a>
 
-- 👨‍💻 All of my projects are available at [www.aubigo.com](www.aubigo.com)
+- 👨‍💻 All of my projects are available at <a href="https://www.aubigo.com">Aubigo Digital Agency</a>
 
 - 💬 Ask me about **react, vue, gsap, nextjs, remixjs**
 
 - 📫 How to reach me **aubigo@outlook.com**
 
-- 📄 Know about my experiences [zenderock.aubigo.online](zenderock.aubigo.online)
+- 📄 Know about my experiences <a href="https://zenderock.aubigo.online">here</a>
 
 - ⚡ Fun fact **I think i am psychopath**
 
