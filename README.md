@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aubigo" alt="aubigo" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/aubigo_code" target="blank"><img src="https://img.shields.io/twitter/follow/aubigo_code?logo=twitter&style=for-the-badge" alt="aubigo_code" /></a> </p>
+
 - 🔭 I’m currently working on [aubigo store](www.aubigo.store)
 
 - 🌱 I’m currently learning **Django, Python**
@@ -23,6 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/aubigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aubigo" height="30" width="40" /></a>
 <a href="https://twitter.com/aubigo_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aubigo_code" height="30" width="40" /></a>
 </p>
 
