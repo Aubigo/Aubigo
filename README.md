@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aubigo Code</h1>
 <h3 align="center">A passionate frontend and backend developer from Cameroon</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aubigo" alt="aubigo" /></a> </p>
+<p align="left"> <a href="https://github.com/aubigo/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aubigo" alt="aubigo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aubigo_code" target="blank"><img src="https://img.shields.io/twitter/follow/aubigo_code?logo=twitter&style=for-the-badge" alt="aubigo_code" /></a> </p>
 
