@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **react, vue, gsap, nextjs, remixjs**
 
-- 📫 How to reach me **aubigo@outlook.com**
+- 📫 How to reach me **aubigo@outlook.com** and **aubigo.techs@gmail.com**
 
 - 📄 Know about my experiences <a href="https://zenderock.aubigo.online">here</a>
 
